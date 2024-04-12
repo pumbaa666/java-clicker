@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Class-Path: ./lib/KeyboardHook.jar
+Main-Class:  ch.correvon.clicker.use.MainClicker
+
